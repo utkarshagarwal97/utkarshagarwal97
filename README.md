@@ -100,8 +100,13 @@
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
 </div>
 
+###
 
-<div align="center">
+<p align="left">Let's connect on social media</p>
+
+###
+
+<div align="left">
   <a href="www.linkedin.com/in/utkarshagarwal97" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
