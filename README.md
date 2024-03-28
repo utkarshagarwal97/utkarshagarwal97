@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm Utkarsh Agarwal, an ardent enthusiast of Artificial Intelligence and a seasoned Full-Stack Developer. My passion lies at the intersection of technology and creativity, where I constantly seek to bridge these worlds through innovative solutions. With a keen focus on exploring next-generation advancements in AI, I'm dedicated to designing and developing software that not only meets the current demands but also anticipates the future needs of our digital landscape. Welcome to my GitHub, where ideas meet implementation.</p>
+<p align="left">I'm Utkarsh Agarwal, an ardent enthusiast of Artificial Intelligence and a seasoned Full-Stack Developer. My passion lies at the intersection of technology and creativity, where I constantly seek to bridge these worlds through innovative solutions. With a keen focus on exploring next-generation advancements in AI, I'm dedicated to designing and developing software that not only meets the current demands but also anticipates the future needs of our digital landscape. Welcome to my GitHub, where ideas meet implementation.</p>
 
 ###
 
@@ -100,11 +100,6 @@
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/utkarshagarwal97/utkarshagarwal97/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/utkarshagarwal97" target="_blank">
