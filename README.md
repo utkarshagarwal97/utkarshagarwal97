@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I'm Utkarsh Agarwal, deeply passionate about Artificial Intelligence and a seasoned Full-Stack Developer. At the heart of my work is the drive to meld technology with creativity, striving to craft innovative solutions that bridge these realms. I'm devoted to exploring the forefront of AI advancements, with the goal of designing and developing software that not only responds to today's challenges but also foresees and adapts to future trends in our digital world. Here, you'll find where imagination converges with reality.</p>
+<p align="left">Welcome to my GitHub space, where code meets creativity and ideas transform into innovative solutions. As a Master’s graduate in Artificial Intelligence from RMIT University, my academic journey has been rich with challenges and learning, driving me to explore the vast potential of AI, Data Visualization, NLP, and Deep Learning.<br><br>What I Bring to the Table:<br>- Deep Technical Expertise: Armed with Python, TensorFlow, and a plethora of data analytics and visualization tools, I navigate through complex AI landscapes to bring forth solutions that are not just efficient but visionary.<br>- Full-Stack Development: With hands-on experience in both front-end and back-end technologies (HTML, CSS, Bootstrap, Flask, and more), I've contributed to building dynamic, user-centric web applications and software that stand at the intersection of functionality and aesthetic appeal.<br>- Creative Problem-Solving: My roles across diverse projects — from enhancing operational forecasting in district heating networks to developing real-time bias detection in AI-generated text — highlight my ability to tackle and solve problems creatively and effectively.<br>- Continuous Learning: The tech world never stops evolving, and neither do I. From freelancing as a web developer and graphic designer to engaging in the Apple Foundation Program at RMIT, I'm always on the lookout for the next learning opportunity to enhance my skills.<br><br>Projects Spotlight:<br>- Heat Demand Forecasting: Leveraged historical data and machine learning to optimize heat consumption, enhancing operational efficiency.<br>- Fairness in LLMs: Developed a proactive dashboard for bias detection in AI-generated text, addressing complex AI ethics challenges.<br>- Person Recognition and Tracking: Implemented advanced computer vision techniques for dynamic person tracking in crowd scenarios.<br><br>Join me here on GitHub as I continue to explore, build, and contribute to the ever-evolving digital landscape. Dive into my repositories to see where creativity intersects with technology, and let's push the boundaries of what's possible together.</p>
 
 ###
 
@@ -33,21 +33,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canvas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
@@ -69,25 +69,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="Sketch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter logo"  />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
   <img width="12" />
@@ -97,7 +97,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premiere pro logo"  />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
 </div>
 
 ###
