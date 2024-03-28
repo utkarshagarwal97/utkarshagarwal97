@@ -102,7 +102,7 @@
 
 ###
 
-<p align="left">Let's connect on social media</p>
+<h2 align="left">Let's connect on social media</h2>
 
 ###
 
