@@ -107,7 +107,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/utkarshagarwal97" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarshagarwal97/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/utkarsh.melbourne/" target="_blank">
@@ -116,7 +116,7 @@
   <a href="mailto:utkagarwal@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/utkarsh.melbourne/" target="_blank">
+  <a href="https://www.youtube.com/channel/UC7KWLJIzoInThEFVI86TLUg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/utkagarwal97/" target="_blank">
