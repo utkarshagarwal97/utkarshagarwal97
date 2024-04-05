@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub space, where code meets creativity and ideas transform into innovative solutions. As a Master’s graduate in Artificial Intelligence from RMIT University, my academic journey has been rich with challenges and learning, driving me to explore the vast potential of AI, Data Visualization, NLP, and Deep Learning.<br><be><h4>What I Bring to the Table:</h4><br>- Deep Technical Expertise: Armed with Python, TensorFlow, and a plethora of data analytics and visualization tools, I navigate through complex AI landscapes to bring forth solutions that are not just efficient but visionary.<br>- Full-Stack Development: With hands-on experience in both front-end and back-end technologies (HTML, CSS, Bootstrap, Flask, and more), I've contributed to building dynamic, user-centric web applications and software that stand at the intersection of functionality and aesthetic appeal.<br>- Creative Problem-Solving: My roles across diverse projects — from enhancing operational forecasting in district heating networks to developing real-time bias detection in AI-generated text — highlight my ability to tackle and solve problems creatively and effectively.<br>- Continuous Learning: The tech world never stops evolving, and neither do I. From freelancing as a web developer and graphic designer to engaging in the Apple Foundation Program at RMIT, I'm always on the lookout for the next learning opportunity to enhance my skills.<br><br><h4>Projects Spotlight:</h4><br>- Heat Demand Forecasting: Leveraged historical data and machine learning to optimize heat consumption, enhancing operational efficiency.<br>- Fairness in LLMs: Developed a proactive dashboard for bias detection in AI-generated text, addressing complex AI ethics challenges.<br>- Person Recognition and Tracking: Implemented advanced computer vision techniques for dynamic person tracking in crowd scenarios.<br><br>Join me here on GitHub as I continue to explore, build, and contribute to the ever-evolving digital landscape. Dive into my repositories to see where creativity intersects with technology, and let's push the boundaries of what's possible together.</p>
+<p align="left">Welcome to my GitHub space, where code meets creativity and ideas transform into innovative solutions. As a Master’s graduate in Artificial Intelligence from RMIT University, my academic journey has been rich with challenges and learning, driving me to explore the vast potential of AI, Data Visualization, NLP, and Deep Learning.<br><br>What I Bring to the Table:<br>- Deep Technical Expertise: Armed with Python, TensorFlow, and a plethora of data analytics and visualization tools, I navigate through complex AI landscapes to bring forth solutions that are not just efficient but visionary.<br>- Full-Stack Development: With hands-on experience in both front-end and back-end technologies (HTML, CSS, Bootstrap, Flask, and more), I've contributed to building dynamic, user-centric web applications and software that stand at the intersection of functionality and aesthetic appeal.<br>- Creative Problem-Solving: My roles across diverse projects — from enhancing operational forecasting in district heating networks to developing real-time bias detection in AI-generated text — highlight my ability to tackle and solve problems creatively and effectively.<br>- Continuous Learning: The tech world never stops evolving, and neither do I. From freelancing as a web developer and graphic designer to engaging in the Apple Foundation Program at RMIT, I'm always on the lookout for the next learning opportunity to enhance my skills.<br><br>Projects Spotlight:<br>- Heat Demand Forecasting: Leveraged historical data and machine learning to optimize heat consumption, enhancing operational efficiency.<br>- Fairness in LLMs: Developed a proactive dashboard for bias detection in AI-generated text, addressing complex AI ethics challenges.<br>- Person Recognition and Tracking: Implemented advanced computer vision techniques for dynamic person tracking in crowd scenarios.<br><br>Join me here on GitHub as I continue to explore, build, and contribute to the ever-evolving digital landscape. Dive into my repositories to see where creativity intersects with technology, and let's push the boundaries of what's possible together.</p>
 
 ###
 
@@ -11,6 +11,12 @@
 ###
 
 <p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning to implement AI-focused solutions<br>🎯 Goals: Automate work with AI<br>🎲 Fun fact: AI is scary.</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshagarwal97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -99,3 +105,32 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
 </div>
+
+###
+
+<h2 align="left">Let's connect on social media</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/utkarshagarwal97" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/utkarsh.melbourne/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:utkagarwal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/utkarsh.melbourne/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/utkagarwal97/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://unsplash.com/@utkarsh_agarwal97" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  />
+  </a>
+</div>
+
+###
